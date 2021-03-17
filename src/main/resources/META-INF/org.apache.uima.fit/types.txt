@@ -1,0 +1,1 @@
+classpath*:src/main/resources/types/*.xml

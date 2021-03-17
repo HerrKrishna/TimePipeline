@@ -1,0 +1,14 @@
+<typeDescription>
+	<name>
+		de.unihd.dbs.uima.types.dornseifftime.dornseiff_category
+	</name>
+	<description/>
+	<supertypeName>uima.tcas.Annotation</supertypeName>
+	<features>
+		<featureDescription>
+			<name>category_name</name>
+				<description/>
+					<rangeTypeName>uima.cas.String</rangeTypeName>
+		</featureDescription>
+	</features>
+</typeDescription>
